@@ -3,7 +3,6 @@ layout: post
 title: "Chris Miller Interviews"
 categories: TSMC, ASML
 ---
-
 ## Decoder Interview
 
 Chris Miller talks to Nilay Patel on the Decoder Podcast. Chris Miller is Associate Professor of International History at the Fletcher School at Tufts University. His latest book, Chip War goes into detail how the chip manufacturing is dominated by ASML and TSMC. 
