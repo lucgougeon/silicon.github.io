@@ -15,7 +15,7 @@ The workshop was dominated by the idea of collaboration and removing barriers in
 Mohamed Kassem from [efabless](https://efabless.com/) opened the workshop by explaining that chip making needs to be simplified. More technical information on how ** efabless can be found on their GitHub page <https://github.com/efabless>
 
 ### Professor Murmann
-Professor Boris Murmann from Hawaii University noted a shortage of chip engineer and pointed out the difficulties of accessing [EDA] (https://en.wikipedia.org/wiki/Electronic_design_automation). These software are proprietary, expensive and protected by NDA.  
+Professor Boris Murmann from Hawaii University noted a shortage of chip engineer and pointed out the difficulties of accessing [EDA](https://en.wikipedia.org/wiki/Electronic_design_automation). These software are proprietary, expensive and protected by NDA.  
 Professor Murmann insisted on the importance of quality documentation and standard of open source tools.
 
 ### Professor Koji Inoue
