@@ -20,7 +20,7 @@ The following video about the history of how Japan learned about semiconductor i
 **Compounding Curiosity Podcast with guest Jon Y Asianometry, TSMC Deep Dive**
 The episode 30 of the Compounding Curiosity has Jon Y as a guest where he explains the importance of TSMC in Taiwan. 
 
-[https://compoundingpodcast.com/ep30][https://compoundingpodcast.com/ep30]
+[https://www.compoundingpodcast.com/ep30][https://www.compoundingpodcast.com/ep30]
 
 
 > Taiwan is obsessed with TSMC. It’s been the case for a very long time. It’s really hard to put it in perspective and context for outsiders. Morris Chang is like Elon Musk here. The Chinese nickname for the company is literally translated as the Silicon sacred mountain or the Silicon shield.
