@@ -4,7 +4,7 @@ title: "Asianometry: a Great resource about Asia and Semiconductor business"
 categories: 
 ---
 
-![Asianometry](https://yt3.googleusercontent.com/BkPLt627VJDtspEOcksWX_PHJ0VhVVFUETEhSYKOriuxSVIqKXw1PeSbdPoRYldwO8kOcT3bRA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)(https://[www.asianometry.com](www.asianometry.com)
+![Asianometry](https://yt3.googleusercontent.com/BkPLt627VJDtspEOcksWX_PHJ0VhVVFUETEhSYKOriuxSVIqKXw1PeSbdPoRYldwO8kOcT3bRA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)(https://[https://www.asianometry.com](https://www.asianometry.com)
 
 Asianometry is a newsletter and a Youtube channel created by Jon Y who is a writer living in Taiwan. 
 He covers the semiconductor industry widely and his has a deep knowledge of TSMC and other important actors like ASML.  
