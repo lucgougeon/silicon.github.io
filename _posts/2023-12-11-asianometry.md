@@ -19,7 +19,7 @@ The following video about the history of how Japan learned about semiconductor i
 
 **Compounding Curiosity Podcast with guest Jon Y Asianometry, TSMC Deep Dive**
 The episode 30 of the Compounding Curiosity has Jon Y as a guest where he explains the importance of TSMC in Taiwan. 
-[https://compoundingpodcast.com/ep30/]
+[https://compoundingpodcast.com/ep30/](https://compoundingpodcast.com/ep30/)
 
 
 
