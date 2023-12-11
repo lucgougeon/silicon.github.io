@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tristan Harris video"
-categories: geopolitics
+categories: 
 ---
 
 Tristan Harris published an interesting video about the geopolitics of semiconductors. 
