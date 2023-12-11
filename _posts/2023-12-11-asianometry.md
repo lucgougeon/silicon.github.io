@@ -37,4 +37,3 @@ The episode 30 of the Compounding Curiosity has Jon Y as a guest where he explai
 
 
 
-[def]: https://compoundingpodcast.com/ep30
