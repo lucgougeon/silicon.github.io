@@ -24,6 +24,7 @@ plugins:
 
 # Theme-specific settings
 
+google_analytics: G-35J151TRT9
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
