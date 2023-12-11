@@ -1,10 +1,8 @@
 ---
 layout: post
-title: 
+title: "Asianometry: a Great resource about Asia and Semiconductor business"
 categories: 
 ---
-# Asianometry: a Great resource about Asia and Semiconductor business
-
 
 ![Asianometry](https://yt3.googleusercontent.com/BkPLt627VJDtspEOcksWX_PHJ0VhVVFUETEhSYKOriuxSVIqKXw1PeSbdPoRYldwO8kOcT3bRA=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)(https://www.asianometry.com/
 
