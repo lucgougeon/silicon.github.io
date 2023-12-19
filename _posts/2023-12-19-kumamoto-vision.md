@@ -3,7 +3,7 @@ layout: post
 title: "Kumamoto Semiconductor Vision"
 categories: 
 ---
-# Kumamoto Semiconductor Industry Promotion Vision 
+#### Kumamoto Semiconductor Industry Promotion Vision 
 
 The Kumamoto Prefectural Government published this report in February 2023 
 
