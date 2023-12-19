@@ -7,7 +7,7 @@ categories:
 
 The Kumamoto Prefectural Government published this report in February 2023 
 
-https://www.pref.kumamoto.jp/uploaded/life/168486_400886_misc.pdf
+<https://www.pref.kumamoto.jp/uploaded/life/168486_400886_misc.pdf>
  
 The reports highlights how Kumamoto can support the Silicon Island Kyushu mission by offering stakeholders an ideal environment for the development of the semiconductor industry. 
 
