@@ -1,9 +1,9 @@
+
 ---
 layout: post
 title: "Tristan Harris video"
 categories: 
 ---
-
 Tristan Harris published an interesting video about the geopolitics of semiconductors. 
 
 This video explains why semiconductors are the new oil of the 21st century.
