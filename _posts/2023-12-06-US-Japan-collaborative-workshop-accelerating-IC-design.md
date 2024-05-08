@@ -36,7 +36,7 @@ Andreas Olofsson from Zero Asic <https://zeroasic.com> presented his chiplet ide
 Robert Mains presented the work of the Chips Alliance <https://chipsalliance.org> which is a part of the [Linux Foundation](https://linuxfoundation.org)
 The Chips Alliance wants to offer open source tools at all level. 
 
-### Professor Ideda
+### Professor Ikeda
 Professor Makoto Ikeda from Tokyo University offered a good history of chip making education in Japan since 1996. <http://www.agile-x.t.u-tokyo.ac.jp/en/>
 He also described the effort to offer tools to all academics and business in Japan. <https://ai-chip-design-center.org>
 
