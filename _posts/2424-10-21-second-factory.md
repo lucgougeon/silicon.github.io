@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Second TSMC factory"
-categories: 
 ---
 
 ## News update and second TSMC factory
